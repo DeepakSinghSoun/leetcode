@@ -3,23 +3,20 @@ class Solution {
         int n = grid.length;
         int twice = -1;
         int missing = -1;
-
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] count = new int[n * n + 1];
 
         for(int i = 0;i< n; i++){
             for(int j =0; j < n; j++){
-                int num = grid[i][j];
-
-                map.put(num, map.getOrDefault(num,0)+1);
+                count[grid[i][j]]++;
             }
         }
 
         for(int num = 1; num <= n*n; num++){
-            if(map.getOrDefault(num,0) == 2){
+            if(count[num] == 2){
                 twice = num;
             }
 
-            if(map.getOrDefault(num,0) == 0){
+            if(count[num] == 0){
                 missing = num;
             }
         }
