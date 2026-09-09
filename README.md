@@ -12,6 +12,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakSinghSoun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeepakSinghSoun/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DeepakSinghSoun/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/DeepakSinghSoun/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DeepakSinghSoun/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/DeepakSinghSoun/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -67,4 +69,24 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakSinghSoun/leetcode/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
