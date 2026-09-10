@@ -7,6 +7,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakSinghSoun/leetcode/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/DeepakSinghSoun/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/DeepakSinghSoun/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/DeepakSinghSoun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakSinghSoun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,4 +90,8 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/DeepakSinghSoun/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
