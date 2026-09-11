@@ -9,6 +9,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 | [0011-container-with-most-water](https://github.com/DeepakSinghSoun/leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/DeepakSinghSoun/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/DeepakSinghSoun/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/DeepakSinghSoun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakSinghSoun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakSinghSoun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeepakSinghSoun/leetcode/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DeepakSinghSoun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakSinghSoun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DeepakSinghSoun/leetcode/tree/master/0169-majority-element) |
 ## Counting
@@ -52,6 +54,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakSinghSoun/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/DeepakSinghSoun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakSinghSoun/leetcode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -94,4 +97,12 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DeepakSinghSoun/leetcode/tree/master/0046-permutations) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DeepakSinghSoun/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DeepakSinghSoun/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
