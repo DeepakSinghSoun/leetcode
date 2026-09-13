@@ -8,6 +8,10 @@ class Solution {
                 continue;
             }
 
+            if (nums[i] > 0) {
+                break;
+            }
+
             int left = i + 1;
             int right = nums.length - 1;
 
