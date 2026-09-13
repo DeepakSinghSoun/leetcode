@@ -1,13 +1,20 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+
         List<List<Integer>> result = new ArrayList<>();
+
         Arrays.sort(nums);
 
         for (int i = 0; i < nums.length - 2; i++) {
+
+            // Skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
 
+            // Since array is sorted, no possible triplet
             if (nums[i] > 0) {
                 break;
             }
@@ -27,13 +34,12 @@ class Solution {
                         nums[right]
                     ));
 
-                    while (left < right &&
-                           nums[left] == nums[left + 1]) {
+                    // Skip duplicates
+                    while (left < right && nums[left] == nums[left + 1]) {
                         left++;
                     }
 
-                    while (left < right &&
-                           nums[right] == nums[right - 1]) {
+                    while (left < right && nums[right] == nums[right - 1]) {
                         right--;
                     }
 
@@ -42,12 +48,12 @@ class Solution {
 
                 } else if (sum < 0) {
                     left++;
-
                 } else {
                     right--;
                 }
             }
         }
+
         return result;
     }
 }
