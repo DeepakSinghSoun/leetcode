@@ -52,6 +52,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 | [0050-powx-n](https://github.com/DeepakSinghSoun/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/DeepakSinghSoun/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DeepakSinghSoun/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of my LeetCode solutions with clean code, explanations, and optimiz
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepakSinghSoun/leetcode/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DeepakSinghSoun/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
